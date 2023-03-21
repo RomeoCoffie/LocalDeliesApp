@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "LocalDelies",
+    "slug": "LocalDelies",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/local.png",
+    "splash": {
+      "image": "./assets/local.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/local.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}
